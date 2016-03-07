@@ -1,4 +1,4 @@
-package at.tuwien.domain.services;
+package at.tuwien.services;
 
 import at.tuwien.domain.Joke;
 

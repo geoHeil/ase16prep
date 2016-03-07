@@ -1,2 +1,4 @@
 joke:
-  apiUrl: "foo"
+  apiUrl: "http://foo"
+spring:
+  apiUrl: "http://gturnquist-quoters.cfapps.io/api/random"

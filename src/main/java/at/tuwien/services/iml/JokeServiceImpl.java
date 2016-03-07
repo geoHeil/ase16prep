@@ -1,7 +1,7 @@
-package at.tuwien.domain.services.iml;
+package at.tuwien.services.iml;
 
 import at.tuwien.domain.Joke;
-import at.tuwien.domain.services.JokeService;
+import at.tuwien.services.JokeService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
